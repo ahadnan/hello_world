@@ -1,6 +1,8 @@
 #!/usr/bin/env python
-import printer
 
+def pr(i):
+    print i
+    
 print "Hello WOrld!"
 
 printer.pr("Ha Ha")
